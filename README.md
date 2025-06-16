@@ -1,6 +1,6 @@
 ## 🧠 MCP Architecture Overview
 
-This project uses the **MCP (Multi-Component Platform)** system to modularly manage tools, context, and prompts across servers, clients, and host agents. Below is a complete breakdown of how the components interact.
+This project uses the **MCP (Model-Context-Protocol)** system to modularly manage tools, context, and prompts across servers, clients, and host agents. Below is a complete breakdown of how the components interact.
 
 ---
 
